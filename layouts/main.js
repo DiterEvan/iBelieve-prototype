@@ -10,7 +10,7 @@ export default ({ children }) => (
 
 		<header className="header">
 			<a href="/"><p>iBelieve.com</p></a>
-			<a href="https://github.com">
+			<a href="https://github.com/DiterEvan/iBelieve-prototype">
         <img src="https://image.flaticon.com/icons/svg/25/25231.svg"/>
 		  </a>
     </header>

@@ -1,23 +1,23 @@
 [
-		{
-			"id": "geek-girls-latam",
-			"name": "Geek Girls Latam",
+    {
+      "id": "geek-girls-latam",
+      "name": "Geek Girls Latam",
       "shortName": "Geek Girls",
-			"img": "https://scontent-lax3-2.cdninstagram.com/vp/94f7775bc21364b972484310edb19a4b/5BF2D6DB/t51.2885-15/e15/s480x480/29715832_234944610397528_2847275919511388160_n.jpg",
-			"signed": true
-		},
-		{
-			"id": "hack-space-peru",
-			"name": "Hack Space Peru",
+      "img": "https://scontent-lax3-2.cdninstagram.com/vp/94f7775bc21364b972484310edb19a4b/5BF2D6DB/t51.2885-15/e15/s480x480/29715832_234944610397528_2847275919511388160_n.jpg",
+      "signed": true
+    },
+    {
+      "id": "hack-space-peru",
+      "name": "Hack Space Peru",
       "shortName": "Hack Space",
-			"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUwpB5fqPD9e9gL3KqbLDZS9peKf58XhKOCEmcWpvebQIMW6QryQ",
-			"signed": false
-		},
-		{
-			"id": "fedex-cross-border",
-			"name": "FedEx Cross Border",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUwpB5fqPD9e9gL3KqbLDZS9peKf58XhKOCEmcWpvebQIMW6QryQ",
+      "signed": false
+    },
+    {
+      "id": "fedex-cross-border",
+      "name": "FedEx Cross Border",
       "shortName": "FedEx",
-			"img": "https://media.glassdoor.com/sqll/22767/fedex-express-squarelogo.png",
-			"signed": true
-		}
+      "img": "https://media.glassdoor.com/sqll/22767/fedex-express-squarelogo.png",
+      "signed": true
+    }
 ]
