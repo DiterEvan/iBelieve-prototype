@@ -12,7 +12,10 @@ export default () => (
       <div className="projects">
         {
           projects.map(({ id, name, shortName, img, signed }) => (
-            <Link href={`/${"projects/"}${id}`}>
+            // <Link href={`/projects/${id}`}>
+            // <Link href={`/project?id=${id}`}>
+            // <Link href={`/project?id=${id}?name=${name}?img=${img}?signed=${signed}`}>
+            <Link href={`/project?name=${name}&img=${img}`}>
               <a className="project">{ shortName }</a>
             </Link>
           ))
