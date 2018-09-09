@@ -38,9 +38,10 @@ export default ({ children }) => (
       .header {
         position: absolute;
         max-width: 1200px;
+        margin: auto;
         left: 0;
         right: 0;
-        margin: auto;
+        top: 0;
         display: flex;
         align-items: center;
         justify-content: space-between;
